@@ -1,2 +1,1 @@
-# Garden-Example-Repo
-Uploading to practice directory format
+This project is not complete and is only being put on Git for this assignment.
